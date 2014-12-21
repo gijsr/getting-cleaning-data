@@ -1,7 +1,6 @@
-README.md
-=====================
+#README.md
 
-Getting and Cleaning Data Project 1
+##Getting and Cleaning Data Project 1
 
 In this repository you will find the following files:
 
